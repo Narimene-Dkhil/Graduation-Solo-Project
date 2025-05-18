@@ -1,9 +1,9 @@
-Solo Project (MediTasks Tracker)
+Solo Project (Chore Tracker)
 =======
-![MediTasks Tracker](MediTasks_tracker.png)
+![Chore Tracker](Chore_tracker.png)
 
 ### 🚀 Project Kickoff
-- Initialized the MediTasks Tracker project structure, setting up backend and frontend components.
+- Initialized the Chore Tracker project structure, setting up backend and frontend components.
 - Added project documentation to guide future contributors.
 
 ### 📦Backend 
