@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eXS8PsIFo9YdoGKmJHaAykiaZN7YmidH+se2r5d2WP72igRlTLHNYjBesuEwtMl3YhIOx0uZSEB2Wm+DxLVgIA==",
+  "dgSpecHash": "tGLpPGti6B9LdB3ruLzUQ++rXtOo+xD7A/mPh5zlVF/yTd5v/1vUdZy8fuILECrUTxEM7Tz7Q62M+UgVPC0Taw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\narim\\OneDrive\\Desktop\\Coding Dojo Programs\\7- Graduation Solo Project\\Graduation-Solo-Project\\Solo Project - Chore Tracker\\ChoreTracker\\ChoreTracker.csproj",
+  "projectFilePath": "C:\\Users\\narim\\OneDrive\\Desktop\\Coding Dojo Programs\\7- Graduation Solo Project\\Graduation-Solo-Project\\Solo Project - MediTasks\\MediTasksTracker\\ChoreTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\narim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\narim\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

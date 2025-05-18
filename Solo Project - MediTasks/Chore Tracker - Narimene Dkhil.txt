@@ -1,10 +1,10 @@
 Student: Narimene Dkhil
 
 Application:
-MediTasks Tracker - A local MediTasks tracking app for Hospitals!
+Chore Tracker - A local Chore tracking app for Hospitals!
 
 Description:
-The MediTasks Tracker web application stores and keeps track of all the Medical Tasks that need to be done within a hospital ( including all departments). 
+The Chore Tracker web application stores and keeps track of all the Medical Tasks that need to be done within a hospital ( including all departments). 
 Features include viewing, creating, editing, deleting, favoriting/unfavoriting Medical Tasks from a list of jobs.
 
 Language used:
