@@ -1,11 +1,11 @@
 Student: Narimene Dkhil
 
 Application:
-Chore Tracker - A local chore tracking app for Hospitals!
+Chore Tracker - A local Chore tracking app for Hospitals!
 
 Description:
-The Chore Tracker web application stores and keeps track of all the chores that need to be done within a hospital ( including all departments). 
-Features include viewing, creating, editing, deleting, favoriting/unfavoriting chores from a list of jobs.
+The Chore Tracker web application stores and keeps track of all the Medical Tasks that need to be done within a hospital ( including all departments). 
+Features include viewing, creating, editing, deleting, favoriting/unfavoriting Medical Tasks from a list of jobs.
 
 Language used:
 C# .Net

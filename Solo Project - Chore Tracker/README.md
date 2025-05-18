@@ -1,9 +1,9 @@
-Solo Project (Chore Tracker)
+Solo Project (MediTasks Tracker)
 =======
-![Chore Tracker](chore_tracker.png)
+![MediTasks Tracker](MediTasks_tracker.png)
 
 ### 🚀 Project Kickoff
-- Initialized the Chore Tracker project structure, setting up backend and frontend components.
+- Initialized the MediTasks Tracker project structure, setting up backend and frontend components.
 - Added project documentation to guide future contributors.
 
 ### 📦Backend 
@@ -26,7 +26,7 @@ Solo Project (Chore Tracker)
 - Added logout functionality that clears the session and redirects to the login page.
 
 ### 📝Database
-- Attached the ChoreTrackerDB.mwb file for database design, including relationships between users, jobs and favorites.
+- Attached the MediTasksTrackerDB.mwb file for database design, including relationships between users, jobs and favorites.
 
 
 
