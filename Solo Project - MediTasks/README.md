@@ -26,7 +26,7 @@ Solo Project (Chore Tracker)
 - Added logout functionality that clears the session and redirects to the login page.
 
 ### 📝Database
-- Attached the ChoreTrackerDB.mwb file for database design, including relationships between users, jobs and favorites.
+- Attached the MediTasksTrackerDB.mwb file for database design, including relationships between users, jobs and favorites.
 
 
 
